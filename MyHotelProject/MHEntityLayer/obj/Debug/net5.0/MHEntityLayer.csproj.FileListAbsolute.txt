@@ -1,0 +1,15 @@
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHEntityLayer\bin\Debug\net5.0\MHEntityLayer.deps.json
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHEntityLayer\bin\Debug\net5.0\MHEntityLayer.runtimeconfig.json
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHEntityLayer\bin\Debug\net5.0\MHEntityLayer.runtimeconfig.dev.json
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHEntityLayer\bin\Debug\net5.0\MHEntityLayer.dll
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHEntityLayer\bin\Debug\net5.0\ref\MHEntityLayer.dll
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHEntityLayer\bin\Debug\net5.0\MHEntityLayer.pdb
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHEntityLayer\obj\Debug\net5.0\MHEntityLayer.csproj.AssemblyReference.cache
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHEntityLayer\obj\Debug\net5.0\MHEntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHEntityLayer\obj\Debug\net5.0\MHEntityLayer.AssemblyInfoInputs.cache
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHEntityLayer\obj\Debug\net5.0\MHEntityLayer.AssemblyInfo.cs
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHEntityLayer\obj\Debug\net5.0\MHEntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHEntityLayer\obj\Debug\net5.0\MHEntityLayer.dll
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHEntityLayer\obj\Debug\net5.0\ref\MHEntityLayer.dll
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHEntityLayer\obj\Debug\net5.0\MHEntityLayer.pdb
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHEntityLayer\obj\Debug\net5.0\MHEntityLayer.genruntimeconfig.cache

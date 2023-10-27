@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "322cff53-fa36-4b8e-bf43-c5af558fc474": {
+      "ProjectGuid": "322cff53-fa36-4b8e-bf43-c5af558fc474",
+      "DisplayName": "HolidayUI",
+      "ColorIndex": 0
+    },
+    "3f8307ae-c9fc-4317-8412-0b14cd7d125a": {
+      "ProjectGuid": "3f8307ae-c9fc-4317-8412-0b14cd7d125a",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 1
+    },
+    "99448213-63cf-4e73-8734-9097c9b6a8e2": {
+      "ProjectGuid": "99448213-63cf-4e73-8734-9097c9b6a8e2",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 2
+    },
+    "826a0768-86ee-4b4e-bb0c-819693665eb3": {
+      "ProjectGuid": "826a0768-86ee-4b4e-bb0c-819693665eb3",
+      "DisplayName": "MHBusinessLayer",
+      "ColorIndex": 3
+    },
+    "3008c63b-5887-4066-90d5-365ab54037ab": {
+      "ProjectGuid": "3008c63b-5887-4066-90d5-365ab54037ab",
+      "DisplayName": "MHDataAccessLayer",
+      "ColorIndex": 4
+    },
+    "feb08523-1242-4066-9f4f-9d897ae8b0a6": {
+      "ProjectGuid": "feb08523-1242-4066-9f4f-9d897ae8b0a6",
+      "DisplayName": "MHEntityLayer",
+      "ColorIndex": 5
+    },
+    "6dbf774b-3728-46d0-a9a4-f0662c198752": {
+      "ProjectGuid": "6dbf774b-3728-46d0-a9a4-f0662c198752",
+      "DisplayName": "HotelProjectApi",
+      "ColorIndex": 6
+    },
+    "9e579049-139d-46ae-9928-6a7efdd50675": {
+      "ProjectGuid": "9e579049-139d-46ae-9928-6a7efdd50675",
+      "DisplayName": "MHDtoLayer",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "654f46d0-fa32-4b09-91c7-9c6c127c8569": {
+      "ProjectGuid": "654f46d0-fa32-4b09-91c7-9c6c127c8569",
+      "DisplayName": "RapidApiConsume",
+      "ColorIndex": 8
+    },
+    "ba200657-6d0e-4f89-b914-c4612534bb10": {
+      "ProjectGuid": "ba200657-6d0e-4f89-b914-c4612534bb10",
+      "DisplayName": "deneme",
+      "ColorIndex": 9
+    },
+    "8d5cd28d-881f-416f-9e78-52058541ada9": {
+      "ProjectGuid": "8d5cd28d-881f-416f-9e78-52058541ada9",
+      "DisplayName": "WebAPIJwt",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPPlus" Version="6.2.8" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MHDataAccessLayer\MHDataAccessLayer.csproj" />
+    <ProjectReference Include="..\MHDtoLayer\MHDtoLayer.csproj" />
+    <ProjectReference Include="..\MHEntityLayer\MHEntityLayer.csproj" />
+  </ItemGroup>
+
+</Project>

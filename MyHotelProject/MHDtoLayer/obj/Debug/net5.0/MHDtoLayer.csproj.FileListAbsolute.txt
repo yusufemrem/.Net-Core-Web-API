@@ -1,0 +1,12 @@
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHDtoLayer\bin\Debug\net5.0\MHDtoLayer.deps.json
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHDtoLayer\bin\Debug\net5.0\MHDtoLayer.dll
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHDtoLayer\bin\Debug\net5.0\ref\MHDtoLayer.dll
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHDtoLayer\bin\Debug\net5.0\MHDtoLayer.pdb
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHDtoLayer\obj\Debug\net5.0\MHDtoLayer.csproj.AssemblyReference.cache
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHDtoLayer\obj\Debug\net5.0\MHDtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHDtoLayer\obj\Debug\net5.0\MHDtoLayer.AssemblyInfoInputs.cache
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHDtoLayer\obj\Debug\net5.0\MHDtoLayer.AssemblyInfo.cs
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHDtoLayer\obj\Debug\net5.0\MHDtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHDtoLayer\obj\Debug\net5.0\MHDtoLayer.dll
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHDtoLayer\obj\Debug\net5.0\ref\MHDtoLayer.dll
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\MyHolidayProject\MHDtoLayer\obj\Debug\net5.0\MHDtoLayer.pdb
